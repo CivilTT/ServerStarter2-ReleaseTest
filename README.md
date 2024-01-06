@@ -1,0 +1,2 @@
+# ServerStarter2-ReleaseTest
+ServerStarter2のリリーステスト用のリポジトリ
